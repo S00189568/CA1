@@ -1,0 +1,11 @@
+C:\Users\S00189568\Documents\GitHub\CA1\CA1\CA1\bin\Debug\netcoreapp2.2\CA1.deps.json
+C:\Users\S00189568\Documents\GitHub\CA1\CA1\CA1\bin\Debug\netcoreapp2.2\CA1.runtimeconfig.json
+C:\Users\S00189568\Documents\GitHub\CA1\CA1\CA1\bin\Debug\netcoreapp2.2\CA1.runtimeconfig.dev.json
+C:\Users\S00189568\Documents\GitHub\CA1\CA1\CA1\bin\Debug\netcoreapp2.2\CA1.dll
+C:\Users\S00189568\Documents\GitHub\CA1\CA1\CA1\bin\Debug\netcoreapp2.2\CA1.pdb
+C:\Users\S00189568\Documents\GitHub\CA1\CA1\CA1\obj\Debug\netcoreapp2.2\CA1.csprojAssemblyReference.cache
+C:\Users\S00189568\Documents\GitHub\CA1\CA1\CA1\obj\Debug\netcoreapp2.2\CA1.csproj.CoreCompileInputs.cache
+C:\Users\S00189568\Documents\GitHub\CA1\CA1\CA1\obj\Debug\netcoreapp2.2\CA1.AssemblyInfoInputs.cache
+C:\Users\S00189568\Documents\GitHub\CA1\CA1\CA1\obj\Debug\netcoreapp2.2\CA1.AssemblyInfo.cs
+C:\Users\S00189568\Documents\GitHub\CA1\CA1\CA1\obj\Debug\netcoreapp2.2\CA1.dll
+C:\Users\S00189568\Documents\GitHub\CA1\CA1\CA1\obj\Debug\netcoreapp2.2\CA1.pdb
